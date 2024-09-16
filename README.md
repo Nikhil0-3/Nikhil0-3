@@ -109,25 +109,22 @@
 ### 📫 **How to Reach Me**
 - **Email**: nikhil.030305@gmail.com
 - **LinkedIn**: [linkedin.com/in/nikhil-more-3a4a19251/](https://www.linkedin.com/in/nikhil-more-3a4a19251/)
-
 ---
 <img align="right" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNW1mMnBsMHFqNzV3aHVraHk2ZXRpaHo1dm41bWx6bjYyMncyd3ZoZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif" alt="Coding in Progress" width="300" style="border-radius: 15px;" />
 
-<h2 align="center">📄 Resume</h2>
+<h2 align="center">📄 Portfolio</h2>
+
 
 <p align="center">
-  - [My Resume](https://github.com/Nikhil0-3/resume)
+  <a href="https://your-portfolio-link.com" target="_blank">My Portfolio</a>
 </p>
 
 
-
 ---
-
-
-<h2 align="center">📊 Visitor Count</h2>
+<h2 align="center">📄 Resume</h2>
 
 <p align="center">
-  <img src="https://profile-counter.glitch.me/Nikhil0-3/count.svg" alt="Visitor Count"/>
+  <a href="https://github.com/Nikhil0-3/resume" target="_blank">My Resume</a>
 </p>
 
 ---
@@ -137,12 +134,13 @@
 
 ---
 
-<h2 align="center">📄 **Blog Posts**</h2>
+<h2 align="center">📊 Visitor Count</h2>
 
-<!-- BLOG-POST-LIST:START -->
-- [Securing Full Stack Applications](#)
-- [10 Tips for Writing Clean Code in React](#)
-<!-- BLOG-POST-LIST:END -->
+<p align="center">
+  <img src="https://profile-counter.glitch.me/Nikhil0-3/count.svg" alt="Visitor Count"/>
+</p>
+
+
 
 ---
 <p align="center">
