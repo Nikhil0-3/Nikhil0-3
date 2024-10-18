@@ -21,6 +21,7 @@
 
 
 ---
+
 ### 🤝 **Looking to Collaborate On**
 - **Cybersecurity Projects** – Exploring innovative ways to secure web applications.
   - [Collaborate with me](https://github.com/Nikhil0-3/cybersecurity-tools)
@@ -159,3 +160,4 @@
 </p>
 
 ---
+<img src="https://raw.githubusercontent.com/milansamuel609/milansamuel609/output/snake.svg" alt="Snake animation" />
