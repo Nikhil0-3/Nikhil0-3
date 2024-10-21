@@ -7,6 +7,23 @@
 </h1>
 <h3 align="center">Full Stack Developer | Cybersecurity Enthusiast</h3>
 
+---
+<p align="center">
+  <a href="https://github.com/Nikhil0-3" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/nikhil-more-3a4a19251/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/u/Nikhil0-3/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+  <a href="https://www.geeksforgeeks.org/user/nikhil0ccqp/" target="_blank">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
+  </a>
+</p>
+
+
 
 <p align="center">
  <img <img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" min-width="300px" max-width="300px" width="350px" align="right"> 
@@ -38,9 +55,9 @@
 
 
 ### 💬 **Ask Me About**
-- **Frontend**: React.js, Vue.js, GSAP
-- **Backend**: Node.js, Express.js, Spring Boot
-- **Databases**: MongoDB, MySQL, SQL
+- **Frontend**: HTML,CSS
+- **Backend**: JAVASCRIPT
+- **Databases**: MySQL, SQL
 - **Cybersecurity**: Web Security, Penetration Testing
 
 ---
@@ -77,12 +94,7 @@
   <a href="https://git-scm.com/" target="_blank">
     <img src="https://skillicons.dev/icons?i=git" alt="Git" title="Git" style="margin: 15px;"/>
   </a>
-  <a href="https://aws.amazon.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=aws" alt="AWS" title="AWS" style="margin: 15px;"/>
-  </a>
-  <a href="https://nodejs.org/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" title="Node.js" style="margin: 15px;"/>
-  </a>
+
 </p>
 
 
@@ -130,32 +142,13 @@
 
 ### ⚡ **Fun Fact**
 - I am passionate about full stack development and always seeking ways to integrate cybersecurity practices to build secure and scalable applications.
-
 ---
-
 <h2 align="center">📊 Visitor Count</h2>
 
 <p align="center">
   <img src="https://profile-counter.glitch.me/Nikhil0-3/count.svg" alt="Visitor Count"/>
 </p>
 
-
-
----
-<p align="center">
-  <a href="https://github.com/Nikhil0-3" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/nikhil-more-3a4a19251/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://leetcode.com/u/Nikhil0-3/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-  </a>
-  <a href="https://www.geeksforgeeks.org/user/nikhil0ccqp/" target="_blank">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
-  </a>
-</p>
 
 ---
 <img src="https://raw.githubusercontent.com/milansamuel609/milansamuel609/output/snake.svg" alt="Snake animation" />
