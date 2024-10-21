@@ -7,10 +7,9 @@
 </h1>
 <h3 align="center">Full Stack Developer | Cybersecurity Enthusiast</h3>
 
----
 
 <p align="center">
- <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWY3amU1eHhsMTl1ZGNnMGE2a3FraDJ0NXZza2E2cjhqa2tsaHB5biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NHvv0Bo3oGq1eTBDd1/giphy.gif" alt="Professional Coding" width="600"/>
+ <img <img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" min-width="300px" max-width="300px" width="350px" align="right"> 
 </p>
 
 ---
@@ -45,7 +44,6 @@
 - **Cybersecurity**: Web Security, Penetration Testing
 
 ---
-
 <h3 align="center">⚙️ **Tech Stack**</h3>
 
 <p align="center">
