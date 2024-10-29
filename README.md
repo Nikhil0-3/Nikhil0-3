@@ -100,6 +100,11 @@
 
 ---
 
+
+# Hacktoberfest 2024 Badges:
+[![An image of @nikhil032's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/nikhil032)](https://holopin.io/@nikhil032)
+---
+
 <h2 align="center">🏆 GitHub Achievements</h2>
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Nikhil0-3&theme=dracula&no-frame=true&row=1&column=6" alt="GitHub Trophies" width="700" />
