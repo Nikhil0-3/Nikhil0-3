@@ -5,7 +5,7 @@
 <h1 align="center">
   Hi, I'm <span style="color:#0078D7;">Nikhil</span> 👋
 </h1>
-<h3 align="center">Full Stack Developer | Cybersecurity Enthusiast</h3>
+<h3 align="center">  </h3>
 
 ---
 <p align="center">
@@ -99,7 +99,12 @@
 
 
 ---
+<h2 align="center">🏆 Leetcode Achievements</h2>
+<p align="center">
+<img src="https://leetcode-badge-showcase.vercel.app/api?username=Nikhil0-3&theme=github-dark" alt="LeetCode Badges"/>
+</p>
 
+---
 
 # Hacktoberfest 2024 Badges:
 [![An image of @nikhil032's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/nikhil032)](https://holopin.io/@nikhil032)
