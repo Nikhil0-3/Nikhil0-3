@@ -153,7 +153,7 @@
 
 <h2 align="center">📄 Resume</h2>
 <p align="center">
-  <a href="https://github.com/Nikhil0-3/resume" target="_blank">📄 My Resume</a>
+  <a href="https://github.com/Nikhil0-3/Nikhil0-3/blob/main/resume_nikhil.pdf" target="_blank">📄 My Resume</a>
 </p>
 
 ---
