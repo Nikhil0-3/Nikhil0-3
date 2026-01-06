@@ -1,5 +1,3 @@
-<!-- GitHub Profile README -->
-
 <h1 align="center">
   Hi, I'm <span style="color:#0078D7;">Nikhil</span> 👋
 </h1>
@@ -21,8 +19,11 @@
     <img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
   </a>
 </p>
-<!--Line-->
+
+
+
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" width="350" align="right"> 
@@ -30,15 +31,15 @@
 
 ---
 
-### 🔭 **Currently Working On**
-- **Medicine Vending Machine** – AI-powered system for symptom-based medicine prediction and smart IoT-based dispensing.
-  - [View Project](https://github.com/Nikhil0-3/medicine-vending-machine)
+### 🔬 **Research & Publications**
+**IoT Integrated Smart Medication System using Machine Learning for Enhanced Rural Healthcare**
+<br>
+*Published in IEEE Xplore (2026)*
 
----
+This research proposes an AI-powered medicine vending system that utilizes CNNs for symptom-based prediction and IoT for automated dispensing, aiming to improve healthcare accessibility in rural areas.
 
-### 🤝 **Looking to Collaborate On**
-- **AI/ML Projects** – Model building, real-world datasets, health-tech AI applications.
-  - [Collaborate Here](https://github.com/Nikhil0-3/cybersecurity-tools)
+- 📄 **Read the Paper:** [IEEE Xplore Link](https://ieeexplore.ieee.org/document/11315818)
+- 💻 **View Code:** [GitHub Repository](https://github.com/Nikhil0-3/medicine-vending-machine)
 
 ---
 
@@ -58,6 +59,11 @@
 - **Data Tools**: Pandas, NumPy, Matplotlib
 - **Deployment**: Flask, Streamlit, API integration
 
+---
+### Resume
+
+- [Resume](https://github.com/Nikhil0-3/Nikhil0-3/blob/main/Nikhil%20resume.pdf)
+  
 ---
 
 <h3 align="center">⚙️ Tech Stack</h3>
@@ -106,6 +112,9 @@
 
 ---
 
+
+
+
 <h2 align="center">🏆 Leetcode Achievements</h2>
 <p align="center">
   <img src="https://leetcode-badge-showcase.vercel.app/api?username=Nikhil0-3&theme=github-dark" alt="LeetCode Badges"/>
@@ -122,6 +131,9 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Nikhil0-3&theme=dracula&no-frame=true&row=1&column=6" width="700" />
 </p>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nikhil0-3&theme=react-dark&bg_color=0D1117&hide_border=true" width="800" alt="Activity Graph" />
+</div>
 
 ---
 
@@ -133,28 +145,13 @@
 </div>
 
 ---
+<img align="right" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNW1mMnBsMHFqNzV3aHVraHk2ZXRpaHo1dm41bWx6bjYyMncyd3ZoZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif" alt="Coding in Progress" width="300" style="border-radius: 15px;" />
 
 ### 📫 **How to Reach Me**
 - 📧 Email: nikhil.030305@gmail.com
 - 🔗 LinkedIn: [linkedin.com/in/nikhil-more-3a4a19251/](https://www.linkedin.com/in/nikhil-more-3a4a19251/)
 
----
 
-<img align="right" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNW1mMnBsMHFqNzV3aHVraHk2ZXRpaHo1dm41bWx6bjYyMncyd3ZoZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif" alt="Coding in Progress" width="300" style="border-radius: 15px;" />
-
-
-
-<h2 align="center">📄 Portfolio</h2>
-<p align="center">
-  <a href="https://your-portfolio-link.com" target="_blank">🌐 My Portfolio</a>
-</p>
-
----
-
-<h2 align="center">📄 Resume</h2>
-<p align="center">
-  <a href="https://github.com/Nikhil0-3/Nikhil0-3/blob/main/resume_nikhil.pdf" target="_blank">📄 My Resume</a>
-</p>
 
 ---
 
@@ -165,17 +162,8 @@
 
 <h2 align="center">📊 Visitor Count</h2>
 <p align="center">
-  <img src="https://profile-counter.glitch.me/Nikhil0-3/count.svg" />
+  <img src="https://komarev.com/ghpvc/?username=Nikhil0-3&label=Profile%20Views&color=0e75b6&style=flat" alt="Visitor Count" />
 </p>
 
 ---
 <img src="https://raw.githubusercontent.com/milansamuel609/milansamuel609/output/snake.svg" alt="Snake animation" />
-
-
-
-
-
-</p>
-
-
----
